@@ -7,6 +7,7 @@ Este repositorio contiene ejemplos, ejercicios y material complementario utiliza
 ---
 
 ## 📁 Estructura del repositorio
+```
 /
 ├── C/
 │ ├── Clase_01/
@@ -17,7 +18,7 @@ Este repositorio contiene ejemplos, ejercicios y material complementario utiliza
 │ ├── Clase_02/
 │ └── ...
 └── README.md
-
+```
 
 
 ## 🔍 Cómo usar este repositorio
