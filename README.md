@@ -77,36 +77,58 @@ Este repositorio contiene ejemplos, ejercicios y material complementario utiliza
 - RAM vs SSD – Latencia y velocidad de transferencia
 - Trabajar en memoria vs trabajar en disco
 
-#### Ordenamiento
+   #### Ordenamiento
 - Ordenamiento interno con vector auxiliar (en memoria)
 - Uso de `const` en punteros
 - Ordenamiento externo con burbujeo (en archivo)
 
-#### Búsqueda
+   #### Búsqueda
 - Búsqueda en un archivo de texto – Métodos
 - Búsqueda en un archivo de texto – carácter por carácter
 - Búsqueda en un archivo binario – referencia a través de un puntero
 
-#### Copia
+   #### Copia
 - Copia básica de un archivo binario
 - Modificación durante la copia
 
 
 ### [🔹 Clase 05 – Manejo avanzado de archivos II](https://github.com/SrWilbur/INFOII/tree/main/C/clase_05)
 
-> ⚠️ La diapositiva no es exactamente la que vimos en clase debido a que no se guardaron los últimos cambios realizados durante la clase del **26 de abril**. No cuento con el tiempo necesario para rehacerla completamente, por eso les aclaro lo siguiente:
+> La diapositiva no es exactamente la que vimos en clase debido a que no se guardaron los últimos cambios realizados durante la clase del **26 de abril**. No cuento con el tiempo necesario para rehacerla completamente, por eso les aclaro lo siguiente:
 
-#### Temas incluidos:
+   #### Temas incluidos:
 - Modificación de archivos en C
 - Escritura directa en archivos (binario y lectura/escritura)
 - Uso de archivos temporales para modificaciones
 - Buenas prácticas generales
 
-#### Lo que se vio en clase pero no quedó en la diapositiva:
+   #### Lo que se vio en clase pero no quedó en la diapositiva:
 - El problema típico que ocurre al usar `fread()` seguido de `fwrite()` sin realizar antes un `fseek()` en archivos abiertos con `"r+b"`.
 - Por qué es necesario hacer un `fseek()` "falso" entre la lectura y la escritura.
 - Qué alternativas existen.
 - Recomendaciones y buenas prácticas para evitar corrupción de datos o errores de lógica al modificar archivos binarios.
+
+### [🔹 Clase 06 – Gestión dinámica de memoria](https://github.com/SrWilbur/INFOII/tree/main/C/clase_03)
+
+   #### Duración, alcance y vinculación
+  - Concepto general de duración, alcance y vinculación de variables
+  - Variables locales: duración, alcance y vinculación
+  - Variables globales: duración, alcance y vinculación
+  - Usos del modificador `static`
+
+   #### Segmentos de memoria de un programa
+  - Stack
+  - Heap
+
+   #### Memoria dinámica en C
+  - Uso de `malloc()`
+  - Uso de `calloc()`
+  - Uso de `free()`
+  - Uso de `realloc()`
+  - Buenas prácticas
+
+- Ejercicios propuestos
+
 
 ## 💬 Consultas
 
