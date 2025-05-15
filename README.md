@@ -2,7 +2,7 @@
 
 Este repositorio contiene ejemplos, ejercicios y material complementario utilizados en las clases de la materia **Informática II**, correspondiente a la carrera de Ingeniería Electrónica en la **UTN – Facultad Regional Haedo**.
 
-> ⚠️ **DISCLAIMER**: Este repositorio no está completamente autocontenido. Está pensado como soporte para las clases dictadas en el aula. Algunos archivos pueden requerir explicación oral o estar incompletos sin el contexto brindado durante la cursada.
+> **DISCLAIMER**: Este repositorio no está completamente autocontenido. Está pensado como soporte para las clases dictadas en el aula. Algunos archivos pueden requerir explicación oral o estar incompletos sin el contexto brindado durante la cursada.
 
 ---
 
@@ -20,20 +20,24 @@ Este repositorio contiene ejemplos, ejercicios y material complementario utiliza
 └── README.md
 ```
 
+## 🗂️ Contenidos por clase
 
-## 🔍 Cómo usar este repositorio
+### [🔹 Clase 01 – Fundamentos del entorno C](https://github.com/SrWilbur/INFOII/tree/main/C/clase_01)
 
-1. Navegá a la carpeta correspondiente a la clase que estés buscando.
-2. Encontrarás allí ejemplos en código (`.c`, `.cpp`), guías teóricas (`.pdf`) y ejercicios.
-3. Podés descargar todo el repositorio o archivos individuales.
-
-
-## 🧠 Requisitos
-
-Para compilar y probar los códigos vas a necesitar:
-- Un compilador de C/C++ (ej: GCC o MinGW)
-- Un entorno como [VS Code](https://code.visualstudio.com/) o [Code::Blocks](http://www.codeblocks.org/)
-
+- función `main`
+- `argc` y `argv`
+- Equivalencia de `char *argv[]` y `char **argv`
+- Validación de argumentos y buenas prácticas
+- `atoi`, `atof`, `strtol`, `strtof`
+- Variables de entorno y su uso en C
+- Uso del tercer parámetro `envp`
+- ¿Qué es un stream en C?
+- Streams estándar
+- `stdin` y `fflush`
+- `stdout` y `stderr`
+- Redirigir `stdout` desde consola
+- Ejercicios propuestos
+                
 
 ## 💬 Consultas
 
