@@ -22,7 +22,7 @@ Este repositorio contiene ejemplos, ejercicios y material complementario utiliza
 
 ## 🗂️ Contenidos por clase
 
-### [🔹 Clase 01 – Fundamentos del entorno C](https://github.com/SrWilbur/INFOII/tree/main/C/clase_01)
+### [🔹 Clase 01 – Argumentos del main - Streams ](https://github.com/SrWilbur/INFOII/tree/main/C/clase_01)
 
 - función `main`
 - `argc` y `argv`
