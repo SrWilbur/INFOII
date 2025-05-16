@@ -4,7 +4,7 @@
 
 # Material de cursada
  
-- [Programación en C]
+- [Programación en C]C/index.md)
   - [Clase 01 – Argumentos del main - Streams](C/clase_01/index.md)
   - [Clase 02 – Archivos de texto - Acceso secuencial](C/clase_02/index.md)
   - [Clase 03 – Archivos binarios](C/clase_03/index.md)
