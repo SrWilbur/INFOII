@@ -1,10 +1,8 @@
-# Table of contents
-
-## Para Empezar
+# Para Empezar
 
 - [Bienvenido al curso](README.md)
 
-## Material de cursada
+# Material de cursada
  
 - [Programación en C]
   - [Clase 01 – Argumentos del main - Streams](C/clase_01/index.md)
