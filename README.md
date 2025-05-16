@@ -1,3 +1,23 @@
+---
+icon: file-code
+cover: .gitbook/assets/portada-infoii.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Informática II (UTN-FRH)
 
 Este repositorio contiene ejemplos, ejercicios y material complementario utilizados en las clases de la materia **Informática II**, correspondiente a la carrera de Ingeniería Electrónica en la **UTN – Facultad Regional Haedo**.
