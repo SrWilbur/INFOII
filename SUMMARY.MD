@@ -1,9 +1,6 @@
-# Para Empezar
+# Material de cursada
 
 - [Bienvenido al curso](README.md)
-
-# Material de cursada
- 
 - [Programación en C](C/index.md)
   - [Clase 01 – Argumentos del main - Streams](C/clase_01/index.md)
   - [Clase 02 – Archivos de texto - Acceso secuencial](C/clase_02/index.md)
