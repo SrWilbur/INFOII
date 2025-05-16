@@ -1,4 +1,4 @@
-# 🔹 Clase 01 – Argumentos del main - Streams
+# 🔹 Argumentos del main - Streams
 
 En esta clase trabajamos con los argumentos del `main`, streams estándar y el manejo básico de entrada/salida.
 
